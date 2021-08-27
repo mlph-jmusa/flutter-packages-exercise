@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Freshbooks",
+        "url": "https://www.freshbooks.com/",
+        "thumbnail_url": "https://cdn2.hubspot.net/hub/53/file-2364769971-png/Website-Homepage-Design-2015-1.png"
+
+    },
+    {
+        "name": "airbnb",
+        "url": "https://www.airbnb.com/",
+        "thumbnail_url": "https://cdn2.hubspot.net/hubfs/53/airbnb-homepage-design.png"
+
+    },
+    {
+        "name": "Mint",
+        "url": "https://mint.intuit.com/",
+        "thumbnail_url": "https://cdn2.hubspot.net/hubfs/53/mint-homepage-design.png"
+
+    },
+    {
+        "name": "Dropbox",
+        "url": "https://www.dropbox.com/?landing=dbv2",
+        "thumbnail_url": "https://cdn2.hubspot.net/hubfs/53/dropbox-consumer-homepage-design.png"
+
+    },
+    {
+        "name": "4 Rivers Smokehouse",
+        "url": "https://www.4rsmokehouse.com/",
+        "thumbnail_url": "https://cdn2.hubspot.net/hub/53/file-2366378406-png/Website-Homepage-Design-2015-4Rivers.png"
+
+    }
+]
+
